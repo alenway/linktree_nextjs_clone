@@ -1,0 +1,30 @@
+{
+  "name": "Lee Robinson",
+  "avatar": "https://pbs.twimg.com/profile_images/1603676695357435904/mDzdGLO-_400x400.jpg",
+  "links": [
+    {
+      "title": "My personal site",
+      "href": "https://twitter.com/leerob",
+      "image": "https://pbs.twimg.com/profile_images/1603676695357435904/mDzdGLO-_400x400.jpg"
+    },
+    {
+      "title": "vercel.com",
+      "href": "https://twitter.com/leerob",
+      "image": "https://pbs.twimg.com/profile_images/1603676695357435904/mDzdGLO-_400x400.jpg"
+    },
+    {
+      "title": "Next js",
+      "href": "https://nextjs.org"
+    }
+  ],
+  "socials": [
+    {
+      "title": "Twitter",
+      "href": "https://twitter.com/leerob"
+    },
+    {
+      "title": "GitHub",
+      "href": "https://github.com/leerob"
+    }
+  ]
+}
